@@ -1,1 +1,21 @@
 /* styles go here */
+.field-form {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.field-form:last-child {
+  margin-bottom: 0;
+}
+
+.addinfo {
+  margin-bottom: 1px;
+}
+
+.birthdate {
+  margin-bottom: 12px;
+}
