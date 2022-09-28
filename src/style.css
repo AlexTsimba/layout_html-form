@@ -1,5 +1,5 @@
 /* styles go here */
-.field-form {
+.form-field {
   display: block;
   margin-bottom: 10px;
 }
@@ -8,14 +8,6 @@
   margin-bottom: 20px;
 }
 
-.field-form:last-child {
+.form-field:last-child {
   margin-bottom: 0;
-}
-
-.addinfo {
-  margin-bottom: 1px;
-}
-
-.birthdate {
-  margin-bottom: 12px;
 }
